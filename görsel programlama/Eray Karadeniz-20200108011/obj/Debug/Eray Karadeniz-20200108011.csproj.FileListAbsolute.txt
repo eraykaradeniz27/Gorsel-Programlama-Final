@@ -1,0 +1,23 @@
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\Eray Karadeniz-20200108011.exe.config
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\Eray Karadeniz-20200108011.exe
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\Eray Karadeniz-20200108011.pdb
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray Karadeniz-20200108011.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form1.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form2.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form3.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form4.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form5.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form6.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form7.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form8.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Form9.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray_Karadeniz_20200108011.Properties.Resources.resources
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray Karadeniz-20200108011.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray Karadeniz-20200108011.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray Karadeniz-20200108011.csproj.CopyComplete
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray Karadeniz-20200108011.exe
+C:\Users\eray1\Desktop\Yeni klasör (2)\Eray Karadeniz-20200108011\Eray Karadeniz-20200108011\obj\Debug\Eray Karadeniz-20200108011.pdb

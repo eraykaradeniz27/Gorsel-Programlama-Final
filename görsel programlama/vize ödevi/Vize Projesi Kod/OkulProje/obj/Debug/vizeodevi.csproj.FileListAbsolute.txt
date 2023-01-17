@@ -1,0 +1,57 @@
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.dersekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.menu.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.ogrencidersekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.ogrenciekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.okulyönetimekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\vizeodevi.csproj.CopyComplete
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.dersekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.menu.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.ogrencidersekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.ogrenciekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.okulyönetimekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.CopyComplete
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.dersekran.resources
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.menu.resources
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.ogrencidersekran.resources
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.ogrenciekran.resources
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.okulyönetimekran.resources
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\vizeodevi.csproj.CopyComplete
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Görsel Programlama-Eray Karadeniz-20200108011\Vize Projesi Kod\OkulProje\obj\Debug\OkulProje.pdb

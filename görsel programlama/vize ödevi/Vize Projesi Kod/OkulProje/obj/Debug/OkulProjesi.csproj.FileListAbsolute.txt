@@ -1,0 +1,75 @@
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.dersekran.resources
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.menu.resources
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.ogrencidersekran.resources
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.ogrenciekran.resources
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.okulyönetimekran.resources
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CopyComplete
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\mrxsh\Desktop\OkulProje\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.dersekran.resources
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.menu.resources
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.ogrencidersekran.resources
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.ogrenciekran.resources
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.okulyönetimekran.resources
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CopyComplete
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\OkulProje1\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.dersekran.resources
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.menu.resources
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.ogrencidersekran.resources
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.ogrenciekran.resources
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.okulyönetimekran.resources
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CopyComplete
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\OkulProje1 - Kopya\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\OkulProje.exe.config
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\OkulProje.pdb
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.dll
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.xml
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.AssemblyReference.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.dersekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.menu.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.ogrencidersekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.ogrenciekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.okulyönetimekran.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.Properties.Resources.resources
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.GenerateResource.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CoreCompileInputs.cache
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProjesi.csproj.CopyComplete
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.exe
+C:\Users\eray1\Desktop\Eray Karadeniz-20200108011\OkulProje\OkulProje\obj\Debug\OkulProje.pdb
